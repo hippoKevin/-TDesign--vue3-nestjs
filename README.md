@@ -17,7 +17,9 @@ npm run build     # 生产构建
 
 ## ADMIN展示
 
-![登录页面](./images/login.png)
+![登录页面](./docs/images/login.png)
+
+![用户管理](./docs/images/userManagement.png)
 
 相关服务端工程：[ADMINSERVER](../ADMINSERVER/README.md)
 
