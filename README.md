@@ -15,10 +15,12 @@ npm run dev       # 开发（默认 http://localhost:5009，接口代理 127.0.0
 npm run build     # 生产构建
 ```
 
-## ADMIN展示
+## ADMIN展示(show)
 
+### login page
 ![登录页面](./docs/images/login.png)
 
+### user management
 ![用户管理](./docs/images/userManagement.png)
 
 相关服务端工程：[ADMINSERVER](../ADMINSERVER/README.md)
